@@ -4,7 +4,7 @@ from subprocess import call
 
 print('starting setup')
 
-apps = ('php', 'vim', 'net-tools', 'telnet')
+apps = ('php', 'git', 'vim', 'net-tools', 'telnet')
 sysops = ('enable', 'start', 'status')
 reload = ('reload', 'status')
 svcs = ('--add-service=http','--add-service=https')
