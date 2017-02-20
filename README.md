@@ -1,5 +1,5 @@
 # WebServerCent7Min
-This is a <b>python</b> script that will install httpd along with some useful tools and open firewall ports 80 and 443
+This is a <b>python</b> script that will install httpd along with some useful tools and open firewall <b>ports 80</b> and <b>443</b>
 
 You can use this right after the first on a <b>CentOS 7 Minimal</b> Install as long as it is connected to the internet
 
